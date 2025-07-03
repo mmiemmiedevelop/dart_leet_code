@@ -28,7 +28,8 @@
 <p>&nbsp;</p>
 <p><strong>Follow up:</strong> What if the inputs contain Unicode characters? How would you adapt your solution to such a case?</p>
 
-
+---
+<h3>한국어</h3>
 
 * 문제
 두 개의 문자열 s와 t가 주어졌을 때,
@@ -45,3 +46,24 @@ t가 s의 애너그램인지 확인하는 함수를 작성하세요.
 
 2. 입력: s = "rat", t = "car" 출력: false
 	설명: t는 s의 애너그램이 아닙니다.
+
+---
+<h3>답</h3>
+<pre>
+bool isAnagram(String s, String t) {
+// 두 문자열의 길이가 다르면 애너그램이 아님
+if (s.length != t.length) return false;
+  
+// 각 문자열의 문자를 정렬한 후 비교
+List<String> sortedS = s.split('')..sort();
+List<String> sortedT = t.split('')..sort();
+     
+return sortedS.join() == sortedT.join();
+}
+</pre>
+
+---
+<h3>🐯한마디</h3>
+<p>길이로 선처리하면 처리속도가 빨라지겠구나 ㅠ.ㅠ</p>
+<h3>..(Cascade Notation)</h3>
+<p>객체를 여러번 참조하지 않고 연속적으로 메서드나 속성에 접근할 수 있게 해주는 문법!</p>
