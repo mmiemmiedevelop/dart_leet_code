@@ -50,6 +50,7 @@ t가 s의 애너그램인지 확인하는 함수를 작성하세요.
 ---
 <h3>답</h3>
 <pre>
+답1
 bool isAnagram(String s, String t) {
 // 두 문자열의 길이가 다르면 애너그램이 아님
 if (s.length != t.length) return false;
@@ -59,6 +60,24 @@ List<String> sortedS = s.split('')..sort();
 List<String> sortedT = t.split('')..sort();
      
 return sortedS.join() == sortedT.join();
+}
+		
+답2 >> 맵활용
+bool isAnagram(String s, String t) {
+if (s.length != t.length) return false;
+
+Map<String, int> counter = {};
+// "anagram"
+for (var char in s.split('')) {
+counter[char] = (counter[char] ?? 0) + 1;
+}
+
+for (var char in t.split('')) {
+if (!counter.containsKey(char) || counter[char]! == 0) return false;
+counter[char] = counter[char]! - 1;
+}
+
+return true;
 }
 </pre>
 
