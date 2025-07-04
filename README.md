@@ -1,5 +1,5 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-<strong>문제를 누르면 리드미로 이동</strong>
+<strong>문제를 누르면 해당 문제의 리드미로 이동</strong>
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
