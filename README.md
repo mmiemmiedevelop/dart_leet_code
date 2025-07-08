@@ -11,4 +11,16 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/1236-n-th-tribonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/1236-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
