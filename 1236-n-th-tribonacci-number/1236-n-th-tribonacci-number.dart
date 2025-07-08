@@ -6,9 +6,10 @@ class Solution {
     // 1번째는 0+1+2
     // 2번째는 1+1+2
     // 3번째는 1+2+4
-    if (n == 0) return 0;// 0번째는 0
-    if (n == 1 || n == 2) return 1;// 1번째와 2번째(1+1)는 1
+    if (n == 0) return 0;// n이 0이면 0
+    if (n == 1 || n == 2) return 1;// "이전 세 값이 충분히 쌓여 있지 않은" 특수한 초기 단계
 
+    //초기값 설정
     int t0 = 0; // tribonacci(0)
     int t1 = 1; // tribonacci(1)
     int t2 = 1; // tribonacci(2)
