@@ -1,6 +1,16 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 <strong>문제를 누르면 해당 문제의 리드미로 이동</strong>
 
+<!-- LeetCode Easy -->
+![Easy Solved](https://img.shields.io/badge/dynamic/json?label=Easy&query=$.leetcode.easy&url=https://raw.githubusercontent.com/mmiemmiedevelop/dart_leet_code/main/stats.json&color=brightgreen)
+
+<!-- LeetCode Medium -->
+![Medium Solved](https://img.shields.io/badge/dynamic/json?label=Medium&query=$.leetcode.medium&url=https://raw.githubusercontent.com/mmiemmiedevelop/dart_leet_code/main/stats.json&color=orange)
+
+<!-- LeetCode Hard -->
+![Hard Solved](https://img.shields.io/badge/dynamic/json?label=Hard&query=$.leetcode.hard&url=https://raw.githubusercontent.com/mmiemmiedevelop/dart_leet_code/main/stats.json&color=red)
+
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
