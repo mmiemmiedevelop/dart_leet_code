@@ -1,14 +1,18 @@
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-<strong>문제를 누르면 해당 문제의 리드미로 이동</strong>
 
-<!-- LeetCode Easy -->
-![Easy Solved](https://img.shields.io/badge/dynamic/json?label=Easy&query=$.leetcode.easy&url=https://raw.githubusercontent.com/mmiemmiedevelop/dart_leet_code/main/stats.json&color=brightgreen)
+<h1 align="left">LeetCode Dart Solutions</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+</p>
 
-<!-- LeetCode Medium -->
-![Medium Solved](https://img.shields.io/badge/dynamic/json?label=Medium&query=$.leetcode.medium&url=https://raw.githubusercontent.com/mmiemmiedevelop/dart_leet_code/main/stats.json&color=orange)
+<p align="center">
+  <!-- LeetCode Stats -->
+  <img src="https://img.shields.io/badge/dynamic/json?label=Easy&query=$.leetcode.easy&url=https://raw.githubusercontent.com/mmiemmiedevelop/dart_leet_code/main/stats.json&color=brightgreen&style=for-the-badge&logo=LeetCode&logoColor=white" alt="Easy Solved" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Medium&query=$.leetcode.medium&url=https://raw.githubusercontent.com/mmiemmiedevelop/dart_leet_code/main/stats.json&color=orange&style=for-the-badge&logo=LeetCode&logoColor=white" alt="Medium Solved" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Hard&query=$.leetcode.hard&url=https://raw.githubusercontent.com/mmiemmiedevelop/dart_leet_code/main/stats.json&color=red&style=for-the-badge&logo=LeetCode&logoColor=white" alt="Hard Solved" />
+</p>
 
-<!-- LeetCode Hard -->
-![Hard Solved](https://img.shields.io/badge/dynamic/json?label=Hard&query=$.leetcode.hard&url=https://raw.githubusercontent.com/mmiemmiedevelop/dart_leet_code/main/stats.json&color=red)
+<p align="center">아래문제를 클릭하면 해당 문제의 상세 README로 이동합니다.</p>
+<p align="center">각 문제 리드미에는 개인풀이과정을 추가해놨습니다.</p>
 
 
 <!---LeetCode Topics Start-->
