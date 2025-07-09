@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -23,4 +24,20 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/1236-n-th-tribonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
