@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0014-longest-common-prefix) |
 | [0169-majority-element](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -54,4 +55,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
