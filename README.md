@@ -22,6 +22,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -36,6 +37,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1236-n-th-tribonacci-number](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
