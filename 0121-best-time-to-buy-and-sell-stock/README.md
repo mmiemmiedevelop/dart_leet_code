@@ -58,6 +58,9 @@ Note that buying on day 2 and selling on day 1 is not allowed because you must b
 ---
 <h3>다른풀이</h3>
 
+
+
+<pre>
 class Solution {
     int maxProfit(List<int> prices) {
         int minPrice = double.maxFinite.toInt(); // 최대값으로 초기화
@@ -74,6 +77,8 @@ class Solution {
         return maxProfit;
     }
 }
+		    
+	    </pre>
 
 ---
 <h3>시간복잡도</h3>
