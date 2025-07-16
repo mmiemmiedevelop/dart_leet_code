@@ -1,6 +1,6 @@
 class Solution {
   int pivotIndex(List<int> nums) {
-    if (nums.isEmpty) return -1;
+   // if (nums.isEmpty) return -1; >> 불필요 문제에서 이미 1이상이라고 주어짐(문제를 잘읽자ㅠ.ㅠ)
 
     int totalSum = nums.reduce((a, b) => a + b);
     int leftSum = 0;
