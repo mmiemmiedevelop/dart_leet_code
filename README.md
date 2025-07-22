@@ -26,6 +26,7 @@
 | [0169-majority-element](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0724-find-pivot-index) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0169-majority-element) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
