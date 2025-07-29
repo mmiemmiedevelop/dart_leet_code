@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">아래문제를 클릭하면 해당 문제의 상세 README로 이동합니다.</p>
-<p align="center">각 문제 리드미에는 개인풀이과정을 추가해놨습니다.</p>
+<p align="center">각 문제 리드미에는 필요시 개인풀이과정을 추가해놨습니다.</p>
 
 
 <!---LeetCode Topics Start-->
