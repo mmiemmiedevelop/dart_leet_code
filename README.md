@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0014-longest-common-prefix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0088-merge-sorted-array) |
@@ -58,6 +59,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0169-majority-element) |
 | [1319-unique-number-of-occurrences](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/1392-find-the-difference-of-two-arrays) |
