@@ -1,13 +1,26 @@
 class Solution {
   bool isPalindrome(String s) {
-    String rm = s.replaceAll(RegExp(r'[^a-zA-Z0-9]'), '');
-    String toLower = rm.toLowerCase();
-
-    for (int i = 0, j = toLower.length - 1; i < j; i++, j--) {
-      if (toLower[i] != toLower[j]) {
-        return false;
+    // 알파벳과 숫자만 남기고, 소문자로 변환
+    String filtered = '';
+    for (var c in s.split('')) {
+      if (RegExp(r'[a-zA-Z0-9]').hasMatch(c)) {
+        filtered += c.toLowerCase();
       }
     }
+    // "A man, a plan, a canal: Panama"
+    // "amanaplanacanalpanama"
+
+    // 양쪽 끝에서부터 비교
+    int left = 0;
+    int right = filtered.length - 1;
+    while (left < right) {
+      if (filtered[left] != filtered[right]) {
+        return false;
+      }
+      left++;
+      right--;
+    }
+
     return true;
   }
 }
