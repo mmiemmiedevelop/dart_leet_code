@@ -44,6 +44,7 @@
 | [0125-valid-palindrome](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0345-reverse-vowels-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [0014-longest-common-prefix](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0345-reverse-vowels-of-a-string) |
 ## Trie
 |  |
 | ------- |
