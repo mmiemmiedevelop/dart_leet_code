@@ -65,6 +65,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0290-word-pattern) |
 | [1319-unique-number-of-occurrences](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/1319-unique-number-of-occurrences) |
@@ -88,6 +89,7 @@
 | [0014-longest-common-prefix](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0345-reverse-vowels-of-a-string) |
 ## Trie
