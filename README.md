@@ -121,4 +121,12 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0643-maximum-average-subarray-i) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/mmiemmiedevelop/dart_leet_code/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
